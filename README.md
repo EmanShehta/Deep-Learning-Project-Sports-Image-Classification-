@@ -86,6 +86,7 @@ Architecture:
 -	Drop 0.5   
 -	Dense layer with 4096 neurons.
 -	Output layer with 6 neurons.
+
 AlexNet 69 % :	
 Architecture: 	
 - Convolution layer with 96 filters each of them [11x 11].
